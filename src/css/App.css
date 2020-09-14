@@ -1,0 +1,14 @@
+.separator__ {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.Separator__in {
+    height: 0.5px;
+}
+
+.Placeholder__in {
+    text-align: center;
+    box-sizing: border-box;
+    padding: 0;
+}

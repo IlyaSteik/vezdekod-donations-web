@@ -1,0 +1,15 @@
+.counters_info__ {
+    display: flex;
+    color: var(--icon_outline_medium);
+}
+
+.counters_info_likes__, .counters_info_comments__, .counters_info_reposts__, .counters_info_views__ {
+    display: flex;
+    align-items: center;
+    padding: 10px 12px;
+}
+
+.counters_info_views__ {
+    margin-right: 0;
+    margin-left: auto;
+}

@@ -1,0 +1,31 @@
+.progress__ {
+    border-radius: 6px;
+    display: flex;
+    text-align: right;
+}
+
+.progress_medium__ {
+    height: 24px;
+}
+
+.progress_regular__ {
+    height: 4px;
+}
+
+.progress_value__ {
+    border-radius: 6px;
+    text-align: right;
+}
+
+.progress_value_inner__, .progress_inner__ {
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 600;
+    color: white;
+    margin-top: 3px;
+    margin-right: 12px;
+}
+
+.progress_inner__ {
+    width: 100%;
+}

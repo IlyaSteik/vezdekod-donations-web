@@ -1,0 +1,7 @@
+.user_wall__ > .SimpleCell__main {
+    margin-left: 8px;
+}
+
+.user_wall__ {
+    display: flex;
+}

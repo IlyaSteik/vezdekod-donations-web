@@ -1,0 +1,19 @@
+.comment__ > .SimpleCell__main {
+    margin-left: 8px;
+}
+
+.comment_top__ {
+    display: flex;
+}
+
+.comment_top__ > .Caption {
+    margin-left: 6px;
+}
+
+.comment__ > .SimpleCell__after {
+    margin-top: auto;
+}
+
+.comment__ > .SimpleCell__after > .Icon {
+    padding-bottom: 13px;
+}

@@ -1,0 +1,19 @@
+.input_comment__ {
+    display: flex;
+    position: relative;
+}
+
+.input_comment__ > .Input, .input_comment__ > .Input > .Input__el {
+    margin-left: 8px;
+    height: 36px;
+    width: 100%;
+}
+
+.input_comment_right__ {
+    color: #99A2AD;
+    position: absolute;
+    right: 4px;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 1;
+}
